@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="769f0bfa-8ac5-4481-af06-e3dc314bfee9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/app/assets/svg/logo-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/app/assets/svg/logo-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/app/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/app/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/features/home/ui/home-hero.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/features/home/ui/home-hero.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/features/layout/ui/main-header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/features/layout/ui/main-header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/pages/about.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/pages/about.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/composables/layout/composables/use-header-nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/shared/composables/layout/composables/use-header-nav.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/archive-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/archive-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/archive-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/archive-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/archive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/book-saved.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/book-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/receipt-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/save-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/save-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/save-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/archive/save-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrange-circle-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrange-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrange-square-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrange-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-down-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-down-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-left-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-left-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-left-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-right-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-right-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-right-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-square-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-square-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-square-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-square-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-swap-horizontal-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-swap-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-swap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-up-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-up-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-up-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/arrow-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/back-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/convert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/export-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/export-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/export-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/export.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/forward-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/import-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/import-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/import-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/import.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/login-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/login.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/logout-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/logout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/receive-square-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/receive-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/received.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/redo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh-left-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh-right-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh-square-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/refresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/repeat-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/repeat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/rotate-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/rotate-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/send-sqaure-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/send-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/arrow/undo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/aquarius.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/gemini-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/gemini.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/man.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/sagittarius.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/aquarius.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/gemini-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/gemini.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/man.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/sagittarius.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/vuesax/bold/woman.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/astrology/woman.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/bank.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/building-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/building-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/building.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/buildings-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/buildings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/buliding.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/courthouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/hospital.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/house-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/house.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/bank.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/building-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/building-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/building.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/buildings-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/buildings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/buliding.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/courthouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/hospital.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/house-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/building/vuesax/bold/house.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/activity.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart-21.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart-fail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart-success.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/diagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/favorite-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/graph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/hashtag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/health.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/home-hashtag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/home-trend-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/home-trend-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/personalcard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/presention-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/status-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/trend-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/business/trend-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-calling.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-incoming.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-outgoing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-received.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/call/call.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/airplane-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/airplane.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/bus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/driving.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/gas-station.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/ship.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/car/smart-car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/airdrop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/airpod.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/airpods.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/bluetooth-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/bluetooth-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/bluetooth-rectangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/bluetooth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cloud-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cloud-change.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cloud-connection.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cloud-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cpu-charge-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cpu-charge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cpu-setting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/cpu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/devices.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/driver-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/driver-refresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/driver.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/electricity.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/external-drive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/folder-connection.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/game.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/gameboy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/headphone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/headphones.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/keyboard-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/keyboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/lamp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/microscope.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/mirroring-screen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/mobile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/monitor-mobbile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/monitor-recorder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/monitor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/music-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/printer-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/printer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/ram-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/ram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/simcard-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/simcard-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/simcard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/speaker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/watch-status.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/watch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/computers/weight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/archive-book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/bill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/clipboard-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/clipboard-export.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/clipboard-import.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/clipboard-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/clipboard-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/copyright.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/creative-commons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-normal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-previous.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-sketch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document-upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/document.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/edit-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/menu-board.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/news.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/stickynote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/task-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/content/task.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/bitcoin-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/bitcoin-convert-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/bitcoin-convert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/bitcoin-refresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/buy-crypto.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/card-coin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/coin-convert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto-currentcy/trade.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/aave-(aave).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/android.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ankr-(ankr).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/augur-(rep).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/autonio-(niox).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/avalanche-(avax).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/be.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/binance-coin-(bnb).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/binance-usd-(busd).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/bitcoin-(btc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/blogger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/bootsrap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/cardano-(ada).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/celo-(celo).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/celsius-(cel)-.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/chainlink-(link).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/civic-(cvc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/dai-(dai).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/dash-(dash).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/decred-(dcr).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/dent-(dent).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/dribbble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/dropbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/educare-(ekt).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/emercoin-(emc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/enjin-coin-(enj).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/eos-(eos).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ethereum-(eth).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ethereum-classic-(etc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/figma-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/figma.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/framer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ftx-token-(ftt).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/google-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/google-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/harmony-(one).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/hedera-hashgraph-(hbar).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/hex-(hex).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/html-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/html-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/huobi-token-(ht).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/icon-(icx).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/icon-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/illustrator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/iost-(iost).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/java-script.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/js.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/kyber-network-(knc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/litecoin(ltc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/maker-(mkr).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/messenger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/monero-(xmr).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/nebulas-(nas).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/nem-(xem).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/nexo-(nexo).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ocean-protocol-(ocean).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/okb-(okb).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ontology-(ont).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/paypal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/photoshop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/polkadot-(dot).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/polygon-(matic).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/polyswarm-(nct).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/python.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/quant-(qnt).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/siacoin-(sc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/slack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/snapchat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/solana-(sol).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/spotify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/stacks-(stx).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/stellar-(xlm).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/tenx-(pay).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/tether-(usdt).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/the-graph-(grt).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/theta-(theta).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/thorchain-(rune).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/trello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/triangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/trontron-(trx).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/twitch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/ui8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/usd-coin-(usdc).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/velas-(vlx).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/vibe-(vibe).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/vuesax.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/wanchain-(wan)-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/wanchain-(wan).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/windows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/wing-(wing).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/xd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/xiaomi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/xrp-(xrp).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/zel-(zel).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/cyrpto/zoom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/3d-cube-scan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/3d-rotate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/3d-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/convert-3d-cube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/truck-fast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/truck-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/truck-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/truck-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/delivery/truck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/additem.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/backward-item.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/bezier.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/blend-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/blend.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/blur.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/brush-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/brush-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/brush-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/brush-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/brush.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/bucket-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/bucket-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/bucket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/color-swatch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/colorfilter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/colors-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/component.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/copy-success.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/designtools.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/eraser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/flash-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/forward-item.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/glass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/layer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/lifebuoy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/magicpen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/main-component.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/mask-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/mask-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/mask.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/omega-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/omega-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/paintbucket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/path-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/path-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/path.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/pen-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/pen-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/pen-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/pen-tool-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/pen-tool.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/recovery-convert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/ruler-pen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/ruler.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/scissor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/shapes-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/shapes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/design/size.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/device-message.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/direct-inbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/direct-normal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/direct-notification.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/direct-send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/direct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/directbox-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/directbox-notif.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/directbox-receive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/directbox-send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-add-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-notif.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-text-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/message.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/messages-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/messages-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/messages-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/messages.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms-notification.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms-tracking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/email/sms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/3dcube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/3full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/add-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/add-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/archive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/autobrightness.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/battery-charging.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/battery-disable.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/battery-empty-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/battery-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/battery-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/box-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/broom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/bubble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/cake.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/cd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/chrome.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/close-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/close-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/coffee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/computing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/crown-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/crown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/cup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/danger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/diamonds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/discover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/emoji-happy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/emoji-normal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/emoji-sad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/flag-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/flash-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/flash-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/flash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/forbidden-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/forbidden.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/ghost.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/glass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/grammerly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/happyemoji.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/home-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/home-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/home-wifi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/info-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/information.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/judge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/lamp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/level.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/milk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/minus-cirlce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/minus-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/mirror.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/more-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/more-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/mouse-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/mouse-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/pet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/ranking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/reserve.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/safe-home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/send-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/signpost.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/slider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/smart-home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/sort.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/sound.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/speedometer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/status.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/sticker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/story.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/tag-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/tag-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/tick-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/tick-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/triangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/trush-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/verify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/warning-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/weight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/wifi-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/essetional/wifi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/files/folder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/3square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/align-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/align-horizontally.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/align-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/align-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/align-vertically.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/convertshape-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/convertshape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/crop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/element-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/element-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/element-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/element-equal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/element-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/fatrows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/format-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/format-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/frame-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/frame.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-eraser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/grid-lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/kanban.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/maximize-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/maximize-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/maximize-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/maximize-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/maximize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/rotate-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/rotate-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/row-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/row-vertical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/slider-horizontal-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/slider-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/slider-vertical-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/grid/slider-vertical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/arrow-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/direct-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/direct-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/direct-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/direct-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/discover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/global-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/global-refresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/global-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/global.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/gps-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/gps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/map-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/picture-frame.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/radar-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/radar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/route-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/routing-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/location/routing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/audio-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/backward-10-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/backward-15-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/backward-5-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/backward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/camera-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/devices.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/forward-10-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/forward-15-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/forward-5-seconds.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-export.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-import.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/gallery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/maximize-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/microphone-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/microphone-slash-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/microphone-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/microphone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/mini-music-sqaure.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-library-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-playlist.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-square-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-square-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-square-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/musicnote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/note-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/pause-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/play-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/play-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/play-cricle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/play-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/previous.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/radio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/record-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/record.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/repeate-music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/repeate-one.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/scissor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/screenmirroring.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/shuffle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/stop-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/stop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/subtitle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-octagon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video-vertical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/voice-cricle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/voice-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-high.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-low-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-low.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-mute.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/media/volume-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/empty-wallet-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/empty-wallet-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/empty-wallet-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/empty-wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/receipt-discount.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/receipt-item.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/receipt-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/strongbox-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/wallet-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/wallet-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money-2/wallet-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/archive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-pos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-receive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-remove-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-tick-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/cards.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/chart-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/coin-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/coin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/convert-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/discount-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/discount-shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/document.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/dollar-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/dollar-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/empty-wallet-change.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/empty-wallet-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/math.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-change.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-forbidden.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-recive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/moneys.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/percentage-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/percentage-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-2-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-disscount.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/receipt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/security-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/strongbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/tag-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/ticket-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/ticket-discount.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/ticket-expired.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/ticket-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/ticket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/transaction-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/money/wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/frame.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/lamp-charge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/lamp-on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/lamp-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/notification-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/notification-bing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/notification-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/notification-status.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/notification/notification.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/code-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/code-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/code.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/command-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/command.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/data-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/data.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/document-code-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/document-code.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hashtag-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hashtag-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hashtag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy-square-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy-square-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/hierarchy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/message-programming.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/mobile-programming.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/programming-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/programming-arrows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/scroll.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/sidebar-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/sidebar-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/sidebar-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/programing/sidebar-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/award.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/book-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/bookmark-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/bookmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/briefcase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/brifecase-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/brifecase-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/brifecase-timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/gift.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/note-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/school/teacher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-favorite-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-favorite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-normal-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-normal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-status-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-status.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-zoom-in-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-zoom-in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-zoom-out-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/search/search-zoom-out.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/alarm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/eye-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/finger-cricle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/finger-scan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/frame.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/key-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/key.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/lock-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/lock-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/lock-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/password-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/radar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/scan-barcode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/scan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/scanner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/scanning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/security-safe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/security-user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/security.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/shield-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/shield-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/shield-security.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/shield-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/shield-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/security/unlock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/candle-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/candle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/category-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/category.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/more-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/setting-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/setting-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/setting-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/setting-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/setting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/settings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/toggle-off-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/toggle-off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/toggle-on-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/settings/toggle-on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-cross-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-happy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-tick-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag-timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/barcode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/shop-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/shop-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/shop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/shopping-bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/shop/shopping-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/24-support.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/dislike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/like-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/like-dislike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/like-shapes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/like-tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/lovely.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/magic-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/medal-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/medal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/message-question.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/question.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/ranking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/smileys.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/star-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/star-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/support/unlimited.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/security-time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/timer-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/timer-pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/timer-start.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/time/timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/attach-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/attach-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/eraser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/firstline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/language-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/language-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link-21.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/maximize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/paperclip-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/paperclip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/pharagraphspacing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-down-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-down-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-up-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-up-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/quote-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/smallcaps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/text-block.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/text-bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/text-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/text-underline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-justifycenter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-justifyleft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-justifyright.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/textalign-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/type/translate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/frame.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-2user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/profile-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/tag-user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-cirlce-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-octagon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/users/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-drizzle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-fog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-lightning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-notif.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-snow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud-sunny.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/drop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/flash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/moon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/sun-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/sun-fog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/sun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/wind-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/shared/modules/vuesax-icons/weather/wind.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/src/widgets/auth/sign-in-button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/src/widgets/auth/sign-in-button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recruitment-client/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../recruitment-client/tailwind.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="419" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../recruitment-client" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="389hEdQjL6deIXAyRelKl9GHHbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "dev",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/projects/premium-saa-s-landing-page",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "bun",
+    "npm.Next.js: server-side.executor": "Run",
+    "npm.build.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "D:\\projects\\recruitment-client\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\projects\\premium-saa-s-landing-page\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\premium-saa-s-landing-page" />
+      <recent name="D:\projects\premium-saa-s-landing-page\@app" />
+      <recent name="D:\projects\premium-saa-s-landing-page\@features\auth" />
+      <recent name="D:\projects\premium-saa-s-landing-page\@shared\types" />
+      <recent name="D:\projects\premium-saa-s-landing-page\@shared" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\premium-saa-s-landing-page\@app\plugins" />
+      <recent name="D:\projects\premium-saa-s-landing-page\@shared" />
+      <recent name="D:\projects\premium-saa-s-landing-page\app" />
+      <recent name="D:\projects\premium-saa-s-landing-page\pages" />
+      <recent name="D:\projects\premium-saa-s-landing-page\shared" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="settings sync history" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.242" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="769f0bfa-8ac5-4481-af06-e3dc314bfee9" name="Changes" comment="" />
+      <created>1768217583196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768217583196</updated>
+      <workItem from="1768217584425" duration="22000" />
+      <workItem from="1768217614201" duration="561000" />
+      <workItem from="1768218194644" duration="4072000" />
+      <workItem from="1768222329413" duration="108000" />
+      <workItem from="1768222452988" duration="38000" />
+      <workItem from="1768222502730" duration="1510000" />
+      <workItem from="1768281647168" duration="1983000" />
+      <workItem from="1768283670875" duration="9581000" />
+      <workItem from="1768301744974" duration="5799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
