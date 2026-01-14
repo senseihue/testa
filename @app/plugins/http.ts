@@ -1,6 +1,8 @@
 import axios, { type AxiosRequestConfig } from "axios"
 import type { AxiosResponse, AxiosError } from "axios"
-
+import { toast } from "@/hooks/use-toast";
+import {useCookies as cookies} from "@/hooks/use-cookie";
+import i18n from "@app/i18n"
 const addExtraMethods = (axiosInstance: Record<string, any>) => {
   const methods = ["request", "delete", "get", "head", "options", "post", "put", "patch"]
   const axiosExtra: Record<string, any> = {}
@@ -14,9 +16,9 @@ const addExtraMethods = (axiosInstance: Record<string, any>) => {
   for (const key in axiosExtra) axiosInstance[key] = axiosExtra[key].bind(axiosInstance)
 }
 
-export default const useHttp = () => {
+const useHttp = () => {
     const options: AxiosRequestConfig = {
-        baseURL: process.env.APP_API_URL,
+        baseURL: '/gateway',
         withCredentials: true,
         headers: {
             accept: "*/*",
@@ -29,21 +31,15 @@ export default const useHttp = () => {
     const http = axios.create(options)
     addExtraMethods(http)
 
-    http.interceptors.request.use(
-        (config) => {
+    http.interceptors.request.use(async (config) => {
+            const useCookies = cookies()
             config.headers = config.headers || {}
 
-            if (import.meta.server) {
-                config.baseURL = runtimeConfig.public.apiUrl.replace("**", "")
-            }
-
-            config.headers["Accept-Language"] = $i18n.locale.value
+            config.headers["Accept-Language"] = i18n.language
 
             const headerToken = config.headers["Authorization"]
-            const token = useCookie("token")
-            if (import.meta.client && !config.url?.includes("public"))
-                if (!headerToken && token.value) config.headers["Authorization"] = `Bearer ${token.value}`
-
+            const token = useCookies.get("token")
+                if (!headerToken && token) config.headers["Authorization"] = `Bearer ${token}`
             return config
         },
         (error) => {
@@ -56,8 +52,12 @@ export default const useHttp = () => {
             const { code, description } = response?.data?.result || {}
             if (code && code.toLowerCase() !== "ok") {
                 const result = description?.split("_")
-                if (result?.length > 1) $toast.error($i18n.t(`messages.error.${description}`))
-                else $toast.error(description)
+                if (result?.length > 1) toast({
+                    title: i18n.t(`messages.error.${description}`)
+                })
+                else toast({
+                    title: description
+                })
                 return Promise.reject(response)
             }
 
@@ -65,15 +65,21 @@ export default const useHttp = () => {
         },
         (error: AxiosError) => {
             const code: Record<number, string> = {
-                401: $i18n.t("messages.error.unauthorized"),
-                403: $i18n.t("messages.error.forbidden")
+                401: i18n.t("messages.error.unauthorized"),
+                403: i18n.t("messages.error.forbidden")
             }
 
-            if (error.response?.status) $toast.error(code[error.response.status])
+            if (error.response?.status) toast({
+                title: code[error.response.status]
+            })
 
             return Promise.reject(error.response)
         }
     )
 
+    return http
 }
+
+
+export default useHttp
 

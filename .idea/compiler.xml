@@ -3,5 +3,6 @@
   <component name="TypeScriptCompiler">
     <option name="memoryAutoIncrease" value="true" />
     <option name="useServicePoweredTypesEnabledManually" value="true" />
+    <option name="useServicePoweredTypesWasEnabledByExperiment" value="true" />
   </component>
 </project>
