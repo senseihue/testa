@@ -10,6 +10,7 @@ const navLinks = [
   { href: "#pricing", label: "Pricing" },
 ]
 import axios from 'axios'
+import {AuthButtonsGroup} from "@widget/auth";
 
 type Post = {
   id: number;
@@ -40,6 +41,7 @@ export function Navbar() {
               {link.label}
             </Link>
           ))}
+          <AuthButtonsGroup></AuthButtonsGroup>
           <Button
             // href="#pricing"
               onClick={authService.signIn}

@@ -18,7 +18,7 @@ const addExtraMethods = (axiosInstance: Record<string, any>) => {
 
 const useHttp = () => {
     const options: AxiosRequestConfig = {
-        baseURL: '/gateway',
+        baseURL: 'http://api.hr.mv/api',
         withCredentials: true,
         headers: {
             accept: "*/*",

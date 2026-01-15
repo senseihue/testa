@@ -5,23 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="769f0bfa-8ac5-4481-af06-e3dc314bfee9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/@features/profile/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/@features/profile/profile.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/@features/profile/profile.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sso.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/use-app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/use-cookie.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/use-http.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@app/middleware/session.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@shared/stores/list.store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@shared/types/http.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@shared/types/response.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@shared/types/store.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@widget/auth/auth-buttons-group.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@widget/auth/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sso/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-session.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/@app/plugins/http.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@app/plugins/http.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/@entities/auth/auth.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@entities/auth/auth.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/@features/auth/auth.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@features/auth/auth.api.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/@features/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@features/auth/auth.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/@features/auth/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@features/auth/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/@features/profile/profile.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@features/profile/profile.api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/@features/profile/profile.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@features/profile/profile.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/@shared/components/ui/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/@shared/components/ui/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/profile/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/profile/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/@shared/types/session.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/@shared/types/session.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sso.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bun.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +33,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="123" />
+    <option name="cachedIndexableFilesCount" value="133" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;senseihue&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/senseihue/testa.git&quot;,
+    &quot;accountId&quot;: &quot;d99cb77b-90c4-49aa-b3f5-9ceff29a1862&quot;
+  }
+}</component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -57,6 +72,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="389hEdQjL6deIXAyRelKl9GHHbb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,7 +93,7 @@
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/axrorbek/WebstormProjects/testa/@features",
+    "last_opened_file_path": "/Users/axrorbek/WebstormProjects/testa/@shared/types",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -95,18 +113,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/@shared/types" />
       <recent name="$PROJECT_DIR$/@features" />
       <recent name="$PROJECT_DIR$" />
       <recent name="D:\projects\premium-saa-s-landing-page" />
       <recent name="D:\projects\premium-saa-s-landing-page\@app" />
-      <recent name="D:\projects\premium-saa-s-landing-page\@features\auth" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/sso" />
       <recent name="D:\projects\premium-saa-s-landing-page\@app\plugins" />
       <recent name="D:\projects\premium-saa-s-landing-page\@shared" />
       <recent name="D:\projects\premium-saa-s-landing-page\app" />
       <recent name="D:\projects\premium-saa-s-landing-page\pages" />
-      <recent name="D:\projects\premium-saa-s-landing-page\shared" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -172,7 +190,9 @@
       <workItem from="1768283670875" duration="9581000" />
       <workItem from="1768301744974" duration="5799000" />
       <workItem from="1768371751297" duration="296000" />
-      <workItem from="1768372056196" duration="17572000" />
+      <workItem from="1768372056196" duration="18869000" />
+      <workItem from="1768451664818" duration="1330000" />
+      <workItem from="1768453016396" duration="21062000" />
     </task>
     <servers />
   </component>
